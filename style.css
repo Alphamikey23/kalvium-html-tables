@@ -2,6 +2,6 @@ table {
     width:500px;
 }
 
-th ,td{
-    text-align: center;
+th ,td {
+    text-align: left;
 }
