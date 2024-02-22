@@ -1,7 +1,13 @@
 table, th, td {
     border: 1px solid;
+    border-collapse: collapse;
+    padding: 10px;
 }
 
 body {
     background-color: aqua;
+}
+
+td {
+    text-align: center;
 }
